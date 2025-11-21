@@ -1,4 +1,4 @@
-Trabalho feito por: Caio Amaral Pieri, Erika Rodrigues Couto e Leonardo Gonçalves jorge
+Trabalho feito por: Caio Amaral Pieri, Erika Rodrigues Couto e Leonardo Gonçalves Jorge
 
 Código pra criar banco de dados:
 
