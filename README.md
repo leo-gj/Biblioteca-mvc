@@ -13,7 +13,7 @@ Trabalho realizado por:
 
 ## 🗄️ Configuração do Banco de Dados
 
-Para rodar o projeto, execute os comandos abaixo no seu cliente MySQL (como MySQL Workbench ou phpMyAdmin) para criar o banco e a tabela necessária.
+Para rodar o projeto, execute os comandos abaixo no seu cliente MySQL (como MySQL Workbench) para criar o banco e a tabela necessária.
 
 ```sql
 -- 1. Criar o Banco de Dados
